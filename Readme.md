@@ -4,7 +4,7 @@ An **Open Source Social Project for India**. This product lets users track Help 
 
 One line of code at a time, One Service at a time, One Electoral Ward at a time. It is a huge unimaginable task. The first step is listing the problems/help-requests/stories so that everyone is at-least aware of them. How can this be achived? *Awareness,Transparency and with everyone's help.*    
   
-In India lot of people have smart phones. Smart Phones have entered even the heart of villages. This is a stab at an open source solution for trying to create a tracker which will create awareness and bring transperency to everyday problems.  
+In India lot of people have smart phones. Smart Phones have entered even the heart of villages. This is a stab at an open source solution for trying to create a tracker which will create awareness and bring transperency to everyday problems. For more Information abou the product kindly visit the [Project Wiki](https://github.com/Ekshunya-India/sahaay/wiki)
 
 This source code is licensed under General Public License v3.0 https://en.wikipedia.org/wiki/GNU_General_Public_License. More information about the licence can be found in [here](License.txt) 
 
