@@ -1,6 +1,7 @@
 # How to contribute
 
-Hey Guys and Girls, I am really glad you are here, because this project needs more volunteers to bring it to life.   
+Hey Guys and Girls, I am really glad you are here, because this project needs more volunteers to bring it to life.
+Why contribute? Well you earn Sahaay Coins and Sahaay Karma Points. Both of these have huge implication within the Sahaay Platform. We promise you it is not your regular grocery points system for sure.   
 
 If you haven't already, come find us in Gitter [![Join the chat at https://gitter.im/sahaay-india/community](https://badges.gitter.im/sahaay-india/community.svg)](https://gitter.im/sahaay-india/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 You can also join the discord at 
@@ -17,7 +18,6 @@ Here are some important resources:
   * The corresponding sahaay coins is present at[Sahaay Coins](https://github.com/Ekshunya-India/sahaay-coins)
 
 ## Testing
-
 We have a handful of Cucumber features. Please create BDD test for the features that you are adding. We will love you if you add more BDD/integration/unit tests in general. We can always use more test coverage.  
 
 ## Submitting changes
