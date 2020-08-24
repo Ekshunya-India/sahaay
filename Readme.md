@@ -23,13 +23,12 @@ This is a top level placeholder project for Sahaay. All the corresponding servic
 * The corresponding android repository is present [Android App](https://github.com/sunil-kavali/sahaay-android)
 * The corresponding IOS repository is present [IOS App](https://github.com/Ekshunya-India/sahaay-ios)
 * The corresponding oAuth2 Server is present at [oAuth-Server](https://github.com/sunil-kavali/sahaay-auth-server)
-* The corresponding load balancer is present at [Load Balancer](https://github.com/sunil-kavali/sahaay-gateway).
 * The corresponding cucumber tests is present at [BDD Tests](https://github.com/Ekshunya-India/sahaay-bdd)
 * The corresponding sahaay coins is present at[Sahaay Coins](https://github.com/Ekshunya-India/sahaay-coins)
 
 * This project follows the specification [Collective Code Construction Contract](https://rfc.zeromq.org/spec/42/)
 
 Shout out : https://en.wikipedia.org/wiki/Pieter_Hintjens
-            https://spring.io/
+            https://doc.networknt.com/
             https://oauth.net/2/
             https://www.mongodb.com/
