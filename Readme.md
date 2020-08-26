@@ -22,7 +22,6 @@ This is a top level placeholder project for Sahaay. All the corresponding servic
 * The corresponding backend repository is presen at [Sahaay Backend](https://github.com/Ekshunya-India/sahaay-backend)
 * The corresponding android repository is present [Android App](https://github.com/sunil-kavali/sahaay-android)
 * The corresponding IOS repository is present [IOS App](https://github.com/Ekshunya-India/sahaay-ios)
-* The corresponding oAuth2 Server is present at [oAuth-Server](https://github.com/sunil-kavali/sahaay-auth-server)
 * The corresponding cucumber tests is present at [BDD Tests](https://github.com/Ekshunya-India/sahaay-bdd)
 * The corresponding sahaay coins is present at[Sahaay Coins](https://github.com/Ekshunya-India/sahaay-coins)
 
